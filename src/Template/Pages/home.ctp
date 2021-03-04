@@ -13,7 +13,7 @@
 <ol>
   <li>From the Web Console homepage, navigate to your projects</li>
   <li>Click on Browse &gt; Builds</li>
-  <li>Click the link with your BuildConfig name</li>
+  <li>Click the link with your BuildConfig names</li>
   <li>Click the Configuration tab</li>
   <li>Click the "Copy to clipboard" icon to the right of the "GitHub webhook URL" field</li>
   <li>Navigate to your repository on GitHub and click on repository settings &gt; webhooks &gt; Add webhook</li>
